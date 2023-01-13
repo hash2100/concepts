@@ -13,3 +13,6 @@ It seems to work, and the CelebA dataset has _labeled features_
 * [Generating photo realistic images](https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-using-ai-d170b1b59255)
 
 Uses GLM (multi-variate regression) to generate latent features from features.
+
+
+* [CelebA dataset on Kaggle](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
