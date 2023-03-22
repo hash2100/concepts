@@ -18,3 +18,5 @@ Uses GLM (multi-variate regression) to generate latent features from features.
 * [CelebA dataset on Kaggle](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 
 * [SR GAN](https://github.com/Lornatang/SRGAN-PyTorch)
+
+* [Training GAN on CelebA - Yumi's blog](https://fairyonice.github.io/My-first-GAN-using-CelebA-data.html)
