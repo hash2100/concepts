@@ -11,6 +11,7 @@ It seems to work, and the CelebA dataset has _labeled features_
 
 * [Streamlit Face Demo](https://github.com/streamlit/demo-face-gan)
 * [Generating photo realistic images](https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-using-ai-d170b1b59255)
+* [Disentanglement - NIPS 2017](https://sites.google.com/view/disentanglenips2017) , see [Disentanglement by penalizing correlation](https://drive.google.com/file/d/1zig6G5H-MhNf6znMS4G3mZtAGBd7nojs/view)
 
 Uses GLM (multi-variate regression) to generate latent features from features.
 
